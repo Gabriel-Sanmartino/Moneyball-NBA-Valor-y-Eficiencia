@@ -6,6 +6,7 @@
 - Mendoza, Erick - Data Architect
 - Sanmartino, Gabriel - Data Science
 
+
 ## Etapas del Proyecto:
 - Planificacion del Proyecto: 
 - * se ha utilizado Trello como herramienta para planificar tareas, asignar los responsables de cada una de ellas e
@@ -39,3 +40,4 @@
 - * Asignacion de segmentos de la presentacion a cada miembro del equipo
 - * Definicion de una paleta de colores profesional para aplicar
 - * Asegurarse de incluir soportes visuales para reflejar y representar el proyecto para el cliente (e.g. demo del proceso de automatizacion)
+
