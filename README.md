@@ -6,6 +6,22 @@
 - Mendoza, Erick - Data Architect
 - Sanmartino, Gabriel - Data Science
 
+## Descripcion del proyecto:
+
+- El proyecto se centra en el análisis del desempeño de jugadores de la NBA
+- En el contexto en que los dueños de equipos buscan maximizar el valor de sus inversiones en jugadores, 
+- garantizando que los salarios pagados estén alineados con su rendimiento
+- Esto resulta crítico en un mercado competitivo donde las decisiones salariales pueden influir directamente en el éxito deportivo y financiero.
+
+## Tecnologias Aplicadas:
+
+- Azure - Base de Datos
+- Trello - Gestion de Proyectos
+- VSC
+- SQL
+- Python (Pandas)
+- Power BI
+
 
 ## Etapas del Proyecto:
 - Planificacion del Proyecto: 
