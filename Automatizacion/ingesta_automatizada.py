@@ -1,7 +1,7 @@
 from cryptography.fernet import Fernet
 import pyodbc
 import pandas as pd
-import configC
+import Automatizacion.configC as configC
 
 print('Estableciendo conexion con Moneyball_DB')
 
