@@ -1,0 +1,8 @@
+-- Seleccionar tabla Team
+SELECT * FROM [dbo].[Team]
+-- Comprobacion de tipos de datos
+SELECT COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH, IS_NULLABLE
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = 'Team';
+-- Cantidad de filas
+SELECT COUNT (id) as [Cantidad de filas] FROM [dbo].[Team]
