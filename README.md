@@ -57,3 +57,14 @@
 - * Definicion de una paleta de colores profesional para aplicar
 - * Asegurarse de incluir soportes visuales para reflejar y representar el proyecto para el cliente (e.g. demo del proceso de automatizacion)
 
+- Creacion del archivo .pbix
+
+- Importacion de datos
+
+- Limpieza y transformacion de datos
+
+- Almacenamiento seguro de datos
+
+- Creacion de medidas, columnas y relaciones en PowerBI
+
+- Elaboracion del dashboard
