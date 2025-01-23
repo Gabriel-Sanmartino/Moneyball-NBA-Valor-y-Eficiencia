@@ -24,6 +24,13 @@
 
 
 ## Etapas del Proyecto:
+
+Para este proyecto, se trabajó con la metodología SCRUM en 2 Sprints.
+Esta forma de trabajo se basa en la colaboración, la flexibilidad y la entrega incremental de valor. 
+Al estar dividido en ciclos cortos  (sprints), permite adaptarse rápidamente a las necesidades del cliente, priorizar tareas y entregar resultados funcionales de forma constante.
+
+### **Sprint 1:**
+
 ### 1)Planificacion del Proyecto: 
 - se ha utilizado Trello como herramienta para planificar tareas, asignar los responsables de cada una de ellas e
 - indicar fechas y dependencias
@@ -73,13 +80,19 @@
 ### 8)Preparacion de la presentacion del Sprint 2 para el PO
 - Definicion de tareas y puntos a incluir
 - Generacion de la estructura de presentacion 
-- Creacion del archivo .pbix
+
+### **Sprint 2:**
+
+### 1)Planificacion del sprint 2
+- Creacion del archivo.pbix
 - Importacion de datos
 - Limpieza y transformacion de datos
 - Almacenamiento seguro de datos
 - Creacion de medidas, columnas y relaciones en PowerBI
 - Elaboracion del dashboard, generacion de elementos visuales (Storytelling)
 - Incorporacion de filtros y segmentaciones, pruebas de calidad
+
+### )
 
 
 ## Estructura del repositorio:
