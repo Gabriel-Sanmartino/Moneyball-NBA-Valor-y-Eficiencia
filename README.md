@@ -57,7 +57,7 @@
 - Definicion de una paleta de colores profesional para aplicar
 - Asegurarse de incluir soportes visuales para reflejar y representar el proyecto para el cliente (e.g. demo del proceso de automatizacion)
 
-  ### 8)Preparacion de la presentacion del Sprint 2 para el PO
+### 8)Preparacion de la presentacion del Sprint 2 para el PO
 - Definicion de tareas y puntos a incluir
 - Generacion de la estructura de presentacion 
 - Creacion del archivo .pbix
