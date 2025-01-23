@@ -5,6 +5,7 @@
 - Loaiza, Angelica👩‍💼 - Data Engineer
 - Mendoza, Erick👨‍💼 - Data Architect
 - Sanmartino, Gabriel👨‍💼 - Data Scientist
+![Consultora](https://github.com/user-attachments/assets/0c7091bc-4b1c-406a-8313-dfd8da292b46)
 
 ## Descripcion del proyecto:
 
