@@ -47,8 +47,21 @@
 - Aplicacion de mejores practicas
 
 ### 5)Diseño de la BD
+- Diseño del modelo relacional
+- Creacion del servidor en Microsoft Azure
+- Creacion de la base de datos en el servidor
+- Otorgamiento de permisos seguros para la conexión remota/local y generación de credenciales de acceso a los usuarios
+- Verificacion de accesos
+- Conexion a la base de datos mediante SGBD, SQL Server Management Studio
+- Creacion de entidades (Tablas)
+- Carga de datos
 
 ### 6)Automatizacion
+- Diseño del diagrama de flujo de ingesta de datos
+- Desarrollo de scripts para ETL e ingesta automatizada de datos
+- Programacion de ejecucion automatica de los scripts
+- Verificacion del correcto funcionamiento de la actualizacion programada de la base de datos
+- Demo de la ingesta dirigido al PO (video)
 
 ### 7)Preparacion de la presentacion del Sprint 1 para el PO
 - Definicion de los puntos a incluir
@@ -73,12 +86,12 @@
 El repositorio Moneyball-NBA-Valor-y-Eficiencia se ha organizado en dos secciones principales para facilitar la gestión y el seguimiento del proyecto:
 
 ###	Dashboard:
-- Contiene el archivo Power BI (.pbix) que visualiza los resultados finales del proyecto para OKC.
+- Contiene el archivo Power BI (.pbix) que visualiza los resultados finales del proyecto para oklahoma city thunder.
 - Incluye la documentación detallada sobre la creación y configuración del tablero.
 
 
 ###	Recursos y desarrollo:
-- Agrupa todos los datos utilizados en el proyecto, tanto los proporcionados por OKC como los obtenidos de fuentes externas.
+- Agrupa todos los datos utilizados en el proyecto, tanto los proporcionados por oklahoma city thunder como los obtenidos de fuentes externas.
 - Contiene los scripts y códigos fuente organizados por sprint (Sprint 1 y Sprint 2) para un mejor seguimiento del desarrollo.
 - Incluye cualquier otro recurso adicional utilizado durante el proyecto.
 
