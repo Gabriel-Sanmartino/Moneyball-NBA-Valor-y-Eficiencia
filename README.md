@@ -1,10 +1,10 @@
 # MONEYBALL NBA VALOR Y EFICIENCIA
 
 ## Integrantes del equipo: 
-- Crowder, Maria - Project Manager 
-- Loaiza, Angelica - Data Engineer
-- Mendoza, Erick - Data Architect
-- Sanmartino, Gabriel - Data Scientist
+- Crowder, Maria👩‍💼 - Project Manager 
+- Loaiza, Angelica👩‍💼 - Data Engineer
+- Mendoza, Erick👨‍💼 - Data Architect
+- Sanmartino, Gabriel👨‍💼 - Data Scientist
 
 ## Descripcion del proyecto:
 
@@ -84,15 +84,33 @@ Al estar dividido en ciclos cortos  (sprints), permite adaptarse rápidamente a 
 ### **Sprint 2:**
 
 ### 1)Planificacion del sprint 2
-- Creacion del archivo.pbix
-- Importacion de datos
-- Limpieza y transformacion de datos
-- Almacenamiento seguro de datos
-- Creacion de medidas, columnas y relaciones en PowerBI
-- Elaboracion del dashboard, generacion de elementos visuales (Storytelling)
-- Incorporacion de filtros y segmentaciones, pruebas de calidad
+- Definicion de los obejtivos a alcanzar en el sprint
+- Definicion de tareas a realizar (¿Como alcanzar los objetivos?)
+- Clasificacion de las tareas segun la urgencia de su concrecion
+- Establecimiento de deadlines
+- Asignacion de responsables
 
-### )
+### )Exploracion de herramientas y utiles de diseño
+- Se ha analizado el uso de figma como herramienta de diseño
+- Se exploraron funcionalidades y recursos de Canva
+- Se ha explorado el uso de herramientas de AI para la extraccion de paletas de colores
+- Se ha explorado el uso de herramientas de AI para generacion de logos
+
+### )Diseño MockUp
+- Seleccion de logo de cliente (oklahoma city thunder)
+- Extraccion de paleta de colores
+- Maquetacion/Storytelling
+
+### )Diseño del Dashboard en Power BI
+- Generacion de medidas bases
+- Generacion de
+
+### 2)Creacion del archivo .pbix
+- Conexion a base de datos
+- Importacion de las entidades necesarias
+- Validacion de los datos en Power Query
+- Carga de los datos a Power BI
+- Generacion del modelo (Validacion de relaciones)
 
 
 ## Estructura del repositorio:
