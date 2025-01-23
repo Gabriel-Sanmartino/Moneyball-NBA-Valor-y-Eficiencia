@@ -77,10 +77,6 @@ Al estar dividido en ciclos cortos  (sprints), permite adaptarse rápidamente a 
 - Definicion de una paleta de colores profesional para aplicar
 - Asegurarse de incluir soportes visuales para reflejar y representar el proyecto para el cliente (e.g. demo del proceso de automatizacion)
 
-### 8)Preparacion de la presentacion del Sprint 2 para el PO
-- Definicion de tareas y puntos a incluir
-- Generacion de la estructura de presentacion 
-
 ### **Sprint 2:**
 
 ### 1)Planificacion del sprint 2
@@ -90,27 +86,37 @@ Al estar dividido en ciclos cortos  (sprints), permite adaptarse rápidamente a 
 - Establecimiento de deadlines
 - Asignacion de responsables
 
-### )Exploracion de herramientas y utiles de diseño
+### 2)Exploracion de herramientas y utiles de diseño
 - Se ha analizado el uso de figma como herramienta de diseño
 - Se exploraron funcionalidades y recursos de Canva
 - Se ha explorado el uso de herramientas de AI para la extraccion de paletas de colores
 - Se ha explorado el uso de herramientas de AI para generacion de logos
 
-### )Diseño MockUp
-- Seleccion de logo de cliente (oklahoma city thunder)
-- Extraccion de paleta de colores
-- Maquetacion/Storytelling
-
-### )Diseño del Dashboard en Power BI
-- Generacion de medidas bases
-- Generacion de
-
-### 2)Creacion del archivo .pbix
+### 3)Creacion del archivo .pbix
 - Conexion a base de datos
 - Importacion de las entidades necesarias
 - Validacion de los datos en Power Query
 - Carga de los datos a Power BI
 - Generacion del modelo (Validacion de relaciones)
+
+### 4)Diseño MockUp
+- Seleccion de logo de cliente (oklahoma city thunder)
+- Extraccion de paleta de colores
+- Maquetacion/Storytelling
+
+### 5)Diseño del Dashboard en Power BI
+- Generacion de medidas bases
+- Generacion de medidas avanzadas (variaciones nominales, variaciones porcentuales, funciones de inteligencia de tiempo)
+- Desarrollo de storytelling, estructura: marcos, navegacion segmentadores
+- Generacion de elementos visuales nativos
+- Exploracion de graficas no nativas de Power Bi
+- Implementacion de graficos externos
+- Incorporacion de funciones automatizadas (email)
+
+### 6)Preparacion de la presentacion del Sprint 2 para el PO
+- Definicion la estructura de la presentacion
+- Asignacion de responsables a cada instancia
+- Simulacion previa
 
 
 ## Estructura del repositorio:
@@ -125,6 +131,10 @@ El repositorio Moneyball-NBA-Valor-y-Eficiencia se ha organizado en dos seccione
 - Agrupa todos los datos utilizados en el proyecto, tanto los proporcionados por oklahoma city thunder como los obtenidos de fuentes externas.
 - Contiene los scripts y códigos fuente organizados por sprint (Sprint 1 y Sprint 2) para un mejor seguimiento del desarrollo.
 - Incluye cualquier otro recurso adicional utilizado durante el proyecto.
+
+
+## Glosario de documentos:
+
 
 
   
