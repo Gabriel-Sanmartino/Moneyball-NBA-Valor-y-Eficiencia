@@ -50,6 +50,7 @@ Al estar dividido en ciclos cortos  (sprints), permite adaptarse rápidamente a 
 
 ### 5)Diseño de la BD
 - Diseño del modelo relacional
+- ![ModeloRelacional](https://github.com/user-attachments/assets/c5b3bb47-c824-4052-90e1-c8ad58edb2b9)
 - Creacion del servidor en Microsoft Azure
 - Creacion de la base de datos en el servidor
 - Otorgamiento de permisos seguros para la conexión remota/local y generación de credenciales de acceso a los usuarios
