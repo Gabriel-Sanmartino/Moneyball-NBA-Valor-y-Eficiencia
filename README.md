@@ -61,7 +61,7 @@ Al estar dividido en ciclos cortos  (sprints), permite adaptarse rápidamente a 
 
 ### 6)Automatizacion
 - Diseño del diagrama de flujo de ingesta de datos
-![Proceso de ingestaF drawio](https://github.com/user-attachments/assets/25c5dce5-898e-4e3c-8243-54c0e565270c)
+![Proceso de ingestaB drawio](https://github.com/user-attachments/assets/ea099aee-c1a7-439e-860c-6dc7d32c6361)
 - Desarrollo de scripts para ETL e ingesta automatizada de datos
 - Programacion de ejecucion automatica de los scripts
 - Verificacion del correcto funcionamiento de la actualizacion programada de la base de datos
