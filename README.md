@@ -29,9 +29,9 @@
 - indicar fechas y dependencias
 
 ### 2)Obtencion de los datasets:
-- * Se ha trabajado con los datasets asignados de Kaggle
-- * Ademas se ha investigado y conseguido informacion externa para complementar y enriquecer el analisis
-- * Se ha realizado un analisis exploratorio inicial de todos los datasets
+- Se ha trabajado con los datasets asignados de Kaggle
+- Ademas se ha investigado y conseguido informacion externa para complementar y enriquecer el analisis
+- Se ha realizado un analisis exploratorio inicial de todos los datasets
 
 ### 3)Definicion de las formas de trabajo:
 - Implementacion de Git/Github como herramienta de trabajo
