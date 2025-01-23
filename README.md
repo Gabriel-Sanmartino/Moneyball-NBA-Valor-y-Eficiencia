@@ -4,7 +4,7 @@
 - Crowder, Maria - Project Manager 
 - Loaiza, Angelica - Data Engineer
 - Mendoza, Erick - Data Architect
-- Sanmartino, Gabriel - Data Science
+- Sanmartino, Gabriel - Data Scientist
 
 ## Descripcion del proyecto:
 
@@ -57,14 +57,34 @@
 - * Definicion de una paleta de colores profesional para aplicar
 - * Asegurarse de incluir soportes visuales para reflejar y representar el proyecto para el cliente (e.g. demo del proceso de automatizacion)
 
+- Preparacion de la presentacion del Sprint 2 para el PO
+- Definicion de tareas y puntos a incluir
+- Generacion de la estructura de presentacion 
 - Creacion del archivo .pbix
-
 - Importacion de datos
-
 - Limpieza y transformacion de datos
-
 - Almacenamiento seguro de datos
-
 - Creacion de medidas, columnas y relaciones en PowerBI
+- Elaboracion del dashboard, generacion de elementos visuales (Storytelling)
+- Incorporacion de filtros y segmentaciones, pruebas de calidad
 
-- Elaboracion del dashboard
+
+## Estructura del repositorio:
+El repositorio Moneyball-NBA-Valor-y-Eficiencia se ha organizado en dos secciones principales para facilitar la gestión y el seguimiento del proyecto:
+
+###	Dashboard:
+- Contiene el archivo Power BI (.pbix) que visualiza los resultados finales del proyecto para OKC.
+- Incluye la documentación detallada sobre la creación y configuración del tablero.
+
+
+###	Recursos y desarrollo:
+- Agrupa todos los datos utilizados en el proyecto, tanto los proporcionados por OKC como los obtenidos de fuentes externas.
+- Contiene los scripts y códigos fuente organizados por sprint (Sprint 1 y Sprint 2) para un mejor seguimiento del desarrollo.
+- Incluye cualquier otro recurso adicional utilizado durante el proyecto.
+
+
+  
+
+  
+
+
