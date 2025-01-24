@@ -1,0 +1,16 @@
+codigo para crear tabla calendario de una sola ves: 
+
+Calendario = 
+ADDCOLUMNS (
+    CALENDAR (DATE(2020, 1, 1), DATE(2030, 12, 31)), 
+    "Año", YEAR([Date]),
+    "Mes", MONTH([Date]),
+    "Día", DAY([Date]),
+    "NombreMes", FORMAT([Date], "MMMM"),
+    "NombreAño", FORMAT([Date], "YYYY"),
+    "Trimestre", "Q" & QUARTER([Date]),
+    "SemanaAño", WEEKNUM([Date], 2), 
+    "DíaSemana", WEEKDAY([Date], 2), 
+    "NombreDíaSemana", FORMAT([Date], "dddd"),
+    "EsFindeSemana", IF(WEEKDAY([Date], 2) > 5, TRUE, FALSE)
+)
