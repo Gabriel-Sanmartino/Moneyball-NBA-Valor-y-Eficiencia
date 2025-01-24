@@ -1,0 +1,4 @@
+Thunder Blue: HEX #007AC1
+Blue (Dark Navy): HEX #002D62
+Sunset Orange: HEX #EF3B24
+Yellow: HEX #FDBB30
