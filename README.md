@@ -139,6 +139,8 @@ El repositorio Moneyball-NBA-Valor-y-Eficiencia se ha organizado en dos seccione
 - ETL.ipynb: Jupiter notebook con el codigo utilizado para la realizacion del procceso de extraccion, transformacion y carga de los datos
 - ETLSalarios.ipynb: Contiene el proceso de ETL aplicado a los datos de salarios obtenidos de fuentes externas
 - PrimeraExploracion.ipynb: El codigo contenido permite la navegacion, observacio y exploracion del contenido de los datasets
+- Validacion_ConexionSQL_Carga.py: Situado en la carpeta "Automatizacion". Contiene el codigo que permite validar los datos, conectarse a la base de datos y cargar los registros
+- Inesta_Automatizada.py: Proceso de extraccion, transformacion y carga de nuevos datos. La ejecucion de este sript se genera de forma automatica a traves del programador de tareas de Windows
   
 
 
