@@ -1,15 +1,15 @@
-<h1 align="center">MONEYBALL NBA VALOR Y EFICIENCIA</h1>
+#<h1 align="center">✨MONEYBALL NBA VALOR Y EFICIENCIA✨</h1>
 
 ![Consultora](https://github.com/user-attachments/assets/0c7091bc-4b1c-406a-8313-dfd8da292b46)
 
-## Descripcion del proyecto:
+## Descripcion del proyecto📄:
 
 - El proyecto se centra en el análisis del desempeño de jugadores de la NBA
 - En el contexto en que los dueños de equipos buscan maximizar el valor de sus inversiones en jugadores, 
 - garantizando que los salarios pagados estén alineados con su rendimiento
 - Esto resulta crítico en un mercado competitivo donde las decisiones salariales pueden influir directamente en el éxito deportivo y financiero.
 
-## Tecnologias Aplicadas:
+## Tecnologias Aplicadas⚙:
 
 - Azure - Base de Datos
 - Trello - Gestion de Proyectos
@@ -19,7 +19,7 @@
 - Power BI
 
 
-## Etapas del Proyecto:
+## Etapas del Proyecto📑:
 
 Para este proyecto, se trabajó con la metodología SCRUM en 2 Sprints.
 Esta forma de trabajo se basa en la colaboración, la flexibilidad y la entrega incremental de valor. 
@@ -132,6 +132,14 @@ El repositorio Moneyball-NBA-Valor-y-Eficiencia se ha organizado en dos seccione
 
 
 ## Glosario de documentos:
+
+- Automatizacion (carpeta): Contiene toda la documentacion referente al proceso de ingesta de datos automatizado
+- Dataset Final (carpeta): Guarda todos los archivos utilizados en el proceso final de carga de datos a "Moneyball_DB"
+- Dataset (Carpeta): Contiene todos los archivos utilizados en el proceso de obtencion y consolidacion de la informacion necesaria para el desarrollo del proyecto
+- ETL.ipynb: Jupiter notebook con el codigo utilizado para la realizacion del procceso de extraccion, transformacion y carga de los datos
+- ETLSalarios.ipynb: Contiene el proceso de ETL aplicado a los datos de salarios obtenidos de fuentes externas
+- PrimeraExploracion.ipynb: El codigo contenido permite la navegacion, observacio y exploracion del contenido de los datasets
+  
 
 
 
