@@ -109,7 +109,6 @@ Al estar dividido en ciclos cortos  (sprints), permite adaptarse rápidamente a 
 - Generacion de elementos visuales nativos
 - Exploracion de graficas no nativas de Power Bi
 - Implementacion de graficos externos
-- Incorporacion de funciones automatizadas (email)
 
 ### 6)Preparacion de la presentacion del Sprint 2 para el PO
 - Definicion la estructura de la presentacion
@@ -128,7 +127,7 @@ El repositorio Moneyball-NBA-Valor-y-Eficiencia se ha organizado en dos seccione
 ###	Recursos y desarrollo:
 - Agrupa todos los datos utilizados en el proyecto, tanto los proporcionados por oklahoma city thunder como los obtenidos de fuentes externas.
 - Contiene los scripts y códigos fuente organizados por sprint (Sprint 1 y Sprint 2) para un mejor seguimiento del desarrollo.
-- Incluye cualquier otro recurso adicional utilizado durante el proyecto.
+- Incluye recursos adicionales utilizados durante el proyecto.
 
 
 ## Glosario de documentos:
